@@ -5,4 +5,11 @@ This system uses pressure sensors to gauge the traffic in all incoming lanes. NO
 This project is based on the ESP32 DEV tool kit v1. 
 We will be using the Arduino IDE 1.8.19. 
 
+Item used:
+ESP32 dev tool kit v1
+4x Force Sensitive resistors
+breadboards
+jumper cables
+resistors.
+LEDS
 
