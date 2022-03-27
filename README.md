@@ -13,3 +13,5 @@ jumper cables
 resistors.
 LEDS
 
+edit: FSR sensors are analog devices and can only be connected with pin that are connected to one of the two ADC channels in the ESP32.
+
