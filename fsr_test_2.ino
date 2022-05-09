@@ -2,7 +2,7 @@
 #define ledpin 13
 void setup() {
   // put your setup code here, to run once:
-pinMode(ledpin, OUTPUT);
+pinMode(ledpin, OUTPUT);  //digital output
 Serial.begin(9600);
 }
 
