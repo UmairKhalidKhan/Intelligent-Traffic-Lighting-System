@@ -15,3 +15,5 @@ LEDS
 
 edit: FSR sensors are analog devices and can only be connected with pin that are connected to one of the two ADC channels in the ESP32.
 
+edit: It is recommended that the circuit is made first, then the software side be handled, since the software needs to reflect the exact pins used on the board. Therefore, now we will make the circuit for our project and then the software side will be handled. 
+
